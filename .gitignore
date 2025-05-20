@@ -1,0 +1,12 @@
+*.xml
+*.bmp
+*.png
+*.dll
+*.exe
+*.log
+*.nupkg
+*.pdb
+*.p7s
+*.pri
+*._
+*.targets

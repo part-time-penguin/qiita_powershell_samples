@@ -1,0 +1,18 @@
+﻿管理者のコマンドプロンプトか、Powershellを起動してください
+
+
+サービスの登録
+　powershell -NoProfile -ExecutionPolicy Unrestricted .\ServiceTemplate.ps1 -Setup
+
+サービスの開始
+　powershell -NoProfile -ExecutionPolicy Unrestricted .\ServiceTemplate.ps1 -Start
+
+サービスの停止
+　powershell -NoProfile -ExecutionPolicy Unrestricted .\ServiceTemplate.ps1 -Stop
+
+サービスの削除
+　powershell -NoProfile -ExecutionPolicy Unrestricted .\ServiceTemplate.ps1 -Remove
+
+サービスの状態確認
+ 　powershell -NoProfile -ExecutionPolicy Unrestricted .\ServiceTemplate.ps1 -Status
+
