@@ -16,4 +16,6 @@
 | `08_service/` | Windowsサービスの制御 | [私PowerShellだけどスクリプトだけでサービス登録したい](https://qiita.com/magiclib/items/b4e2e919f02af1b04b58) [エディタとPowerShellで開発しよう！君だけのWindowsサービス](https://qiita.com/magiclib/items/0d5fb158010a9df6b24b)|
 | `09_screen_shot/` | スクリーンショット機能 | [私PowerShellだけどスクリーンショットを撮影したい](https://qiita.com/magiclib/items/91f7d32cbd766b39b293) [私PowerShellだけどマウスカーソル付きのスクリーンショットを撮影したい](https://qiita.com/magiclib/items/c867525aa83db5a00ebb) |
 | `10_screenlock/` | 画面ロック回避機能 | [君はロックなんか効かない（スクリーンロックの回避方法について）](https://qiita.com/magiclib/items/352e46f86d3d0e2e9c7b) |
+| `11_7zip` | ファイル分割結合 | [大きいファイルがアップロード出来ないときは分割するのです。（7zipで分割したファイルをPowershellで結合する）](https://qiita.com/magiclib/items/a3044c21d195e542472f) |
+
 
