@@ -10,3 +10,5 @@
 *.pri
 *._
 *.targets
+11_7zip/wallpapers/
+11_7zip/*.zip*
